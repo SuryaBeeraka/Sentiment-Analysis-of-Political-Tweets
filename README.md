@@ -55,7 +55,7 @@ Ensemble Model (Logistic Regression + Random Forest)	61.68%	Best-performing mode
 
 1️⃣ Clone this repository
 
-git clone https://github.com/YourUsername/Sentiment-Analysis-Political-Tweets.git
+git clone (https://github.com/SuryaBeeraka/Sentiment-Analysis-of-Political-Tweets.git)
 cd Sentiment-Analysis-Political-Tweets
 
 2️⃣ Install dependencies
